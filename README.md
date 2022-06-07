@@ -1,4 +1,4 @@
 # ToDoList
 
-+ Building ToDoList by JavaScript 
++ Building ToDoList using JavaScript 
 + Inspired by CodingNepal
