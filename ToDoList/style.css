@@ -7,7 +7,7 @@
 }
 
 body {
-  overflow: hidden;
+  overflow: scroll;
   background-color: rgb(62, 214, 164);
 }
 
