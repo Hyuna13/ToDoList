@@ -7,7 +7,8 @@
 }
 
 body {
-  overflow: scroll;
+  overflow: hidden;
+  /* overflow: scroll; */
   background-color: rgb(62, 214, 164);
 }
 
@@ -83,6 +84,8 @@ body {
 
 .task-box {
   margin: 20px 25px;
+  max-height: 300px;
+  overflow-y: auto;
 }
 
 .task-box .task{
